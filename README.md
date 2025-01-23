@@ -6,4 +6,6 @@ Ni skall beskriva för kunden hur ni kommer att planera genomförandet, efter at
 
 Dessutom skall ni presentera hur ni har arbetat och visa vad ni har gjort i respektive sprint (under 3 veckor, sprint 1-3). 
 
+Miro - https://miro.com/app/board/uXjVLquS4co=/?share_link_id=272906389910
+
 Ideer:
