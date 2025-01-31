@@ -1,0 +1,10 @@
+Programmeringsspråk: Python, TypeScript
+Framework: Django
+Bibliotek: Socket.io
+Databaser: postgreSQL, mongoDB
+Servrar och molntjänster: google cloud
+Streambearbetningstjänster: apache kafka
+Stor Databehandling: apache spark
+Realtidsanalys: apache flink
+Mediaplattform: cloudinary, microsoft teams
+
