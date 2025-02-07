@@ -8,6 +8,6 @@ Dessutom skall ni presentera hur ni har arbetat och visa vad ni har gjort i resp
 
 Miro - https://miro.com/app/board/uXjVLquS4co=/?share_link_id=272906389910
 
-Ideer: 
+Ideer: Projekt plannering, Solresor vr
 
 Figma: https://www.figma.com/design/a3FcGzsZ8KODMJIlEAQD5U/Cool-unicorn?node-id=0-1&p=f&t=3BOJijXaVjV4qhT4-0
